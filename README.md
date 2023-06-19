@@ -7,6 +7,7 @@ Chatrume is a chat application build with Node.js React.js and ChatEngine.io
 - Node.js
 - React.js
 - ChatEngine.io
+- Express
  
 ## Getting Started
 
